@@ -1,8 +1,15 @@
 import React from "react";
-import Project from "./components/Project";
+import Navigation from "./components/Navigation";
+import Projects from "./components/Projects";
+import Footer from "./components/Footer";
 
 function App() {
-  return <Project />;
+  return (
+  <div>
+ <Navigation />
+ <Projects />
+ <Footer />
+  </div>)
  
 }
 

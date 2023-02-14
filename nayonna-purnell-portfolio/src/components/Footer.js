@@ -36,9 +36,9 @@ function Footer() {
           </div>
           <div class="col-sm">
           <ul className='list-unstyled'>
-             <li>GitHub</li>
-             <li>LinkedIn</li>
-             <li>Email</li>
+             <li><a href="https://github.com/nayonnapurnell/nPurnell-Portfolio-HW2">Github</a></li>
+             <li><a href="https://www.linkedin.com/in/nayonnapurnell/">LinkedIn</a></li>
+             <li><a href="mailto:nayonnapurnell@outlook.com">Email</a></li>
          </ul>
           </div>
         </div>
